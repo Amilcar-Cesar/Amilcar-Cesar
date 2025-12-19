@@ -157,6 +157,6 @@ Atualmente estou focando meus estudos em arquitetura de software
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amilcar-Cesar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amilcar-Cesar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f8f8f8&area=true&hide_border=true&hide_title=false&custom_title=Minhas%20ultimas%20contribuições&from=2025-12-01&to2020-12-31)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amilcar-Cesar&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f8f8f8&area=true&hide_border=true&hide_title=false&custom_title=Minhas%20Últimas%20Contribuições&from=2025-12-01&to2020-12-31)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
