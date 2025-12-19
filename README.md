@@ -3,7 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Amilcar, tenho 25 anos e sou natural do Rio de Janeiro. Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
-Atualmente estou focando meus estudos em arquitetura de software
+Estou focando meus estudos em arquitetura de software e escalabilidade.
 
 <p align="left">
     <a href="https://github.com/Amilcar-Cesar?tab=repositories&sort=stargazers">
