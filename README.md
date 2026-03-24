@@ -37,6 +37,7 @@ Estou focando meus estudos em arquitetura de software e escalabilidade.
 
 ### 🤖 Linguagens e Tecnologias
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,flask,docker,mysql,mongodb,postgres,postman,redis,git)](https://skillicons.dev)
 <img 
     align="left" 
     alt="HTML"
