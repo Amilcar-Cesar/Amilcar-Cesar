@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Amilcar, tenho 25 anos e sou natural do Rio de Janeiro. Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
+Me chamo Amilcar, tenho 26 anos e sou natural do Rio de Janeiro. Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
 Estou focando meus estudos em arquitetura de software, escalabilidade e análise de dados.
 
 <p align="left">
